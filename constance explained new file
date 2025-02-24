@@ -1,0 +1,19 @@
+#constance introduced
+#this is an example of a constant
+
+pt=3.1415927
+
+#constants are declared in full caps
+#not l;ike variable which are not in full caps
+
+pie = "apple" #this is a variable
+
+#some things in this universe are constant
+#exsample: Basketball
+FEILDGOAL = 2 #the value of this never changes
+DUNKSHOT = 2
+FREETHROW = 1
+THREEPOINTER = 3
+
+team1player1FOULS = 0
+
