@@ -1,0 +1,25 @@
+#variables explained
+#a variable is:
+#in a computers memory...
+#it stores a value
+#and the value can change
+
+#example
+name = "Huey"
+#the variable is called name
+#the value is "Huey"
+#I will now change the value
+name = "harvey"
+
+#variable can store different
+#types of data
+#e.g. numbers, letters etc
+
+#the best programmers make sure the variable
+#is discriptive
+#e.g.
+teamOneyellowcards = 0
+#the variable above has a very descriptive name
+x = 1
+#this variable has poor...
+#name!
