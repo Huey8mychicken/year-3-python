@@ -1,0 +1,17 @@
+print("welcome to the MAD-LIB")
+print("please answer the following questions")
+print("")
+
+adjective1 = input("enter an adjective")
+Enter_a_person = input("enter a person")
+country = input("enter a country")
+food = input("enter a food")
+print("")
+print("here is you mad lib")
+print(Enter_a_person,"is a really",adjective1,"person")
+print("but he likes to eat",food,)
+print("so he is not as",adjective1,)
+print("however he is from",country,)
+print("that is where my mum is from")
+print("so i like him now")
+
