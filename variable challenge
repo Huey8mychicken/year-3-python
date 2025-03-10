@@ -1,0 +1,11 @@
+name = input("enter your name")
+print("hello",name)
+
+age =input("enter your age")
+print("your old")
+
+best_colour = input("enter best colour")
+print("best colour")   
+
+sports_team =input("sports team")
+print("boooo")
