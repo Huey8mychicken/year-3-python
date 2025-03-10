@@ -1,0 +1,22 @@
+#data types
+charecter= "!"
+realFloat = 54.55
+Integer = 345
+boolean = True
+string = "sdlf22323"
+#c.r.i.b.s is a way to remember data types
+#for example:
+name = str(input("enter name"))
+#in this code, str means we want the datra entered
+#as a string
+
+age = int(input("enter age"))
+#in this code, str means we want the datra entered
+#as a intiger
+
+price= float(input("enter price"))
+#in this code, str means we want the datra entered
+#as a decemal number
+
+#this is called casting for all data types
+
