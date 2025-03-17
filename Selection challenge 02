@@ -9,7 +9,7 @@
 if skyColour == "purple":
    print ("The sky is blue today")
 skyColour = "blue"
-else:
+ else:
   print("The sky is NOT blue")
 
 
